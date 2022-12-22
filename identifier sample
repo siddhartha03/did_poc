@@ -1,0 +1,27 @@
+New identifier created
+{
+  "did": "did:ethr:goerli:0x0307cb8e13dc263db41ff4ec4d533670895d113f84c8df3d177bcd5223718285ac",
+  "controllerKeyId": "0407cb8e13dc263db41ff4ec4d533670895d113f84c8df3d177bcd5223718285aca49b7ab0d991989cbe7da4f6e6a193c8c889db1ab98ffc8d9437886fb13988e7",
+  "keys": [
+    {
+      "type": "Secp256k1",
+      "kid": "0407cb8e13dc263db41ff4ec4d533670895d113f84c8df3d177bcd5223718285aca49b7ab0d991989cbe7da4f6e6a193c8c889db1ab98ffc8d9437886fb13988e7",
+      "publicKeyHex": "0407cb8e13dc263db41ff4ec4d533670895d113f84c8df3d177bcd5223718285aca49b7ab0d991989cbe7da4f6e6a193c8c889db1ab98ffc8d9437886fb13988e7",
+      "meta": {
+        "algorithms": [
+          "ES256K",
+          "ES256K-R",
+          "eth_signTransaction",
+          "eth_signTypedData",
+          "eth_signMessage",
+          "eth_rawSign"
+        ]
+      },
+      "kms": "local"
+    }
+  ],
+  "services": [],
+  "provider": "did:ethr:goerli",
+  "alias": "default"
+}
+Done in 7.34s.
